@@ -29,7 +29,7 @@ The repository also includes additional Monte Carlo-based analyses to compare FR
 
 In addition to the scripts directly related to the article, this repository contains a general illustrative example based on the selection of one car among five candidate models using seven different characteristics. This example is intended to help users understand how the methodology can be applied to a broader multi-criteria decision-making problem.
 
-Supporting PowerPoint slides are also provided to explain the methodology, the example, and the implementation details step by step.
+Supporting PDF slides are also provided to explain the methodology, the example, and the implementation details step by step.
 
 ## Software
 

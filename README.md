@@ -14,6 +14,7 @@ If you use this repository, please cite the original article above.
 - Àlex Gaona Soler (Alex.Gaona@uab.cat)
 - Albert Guisasola Canudas
 - Juan Antonio Baeza Labat (JuanAntonio.Baeza@uab.cat)
+  GENOCOV Reasearch Group, Department of Chemical, Biological and Environmental Engineering, School of Engineering, Universitat Autònoma de Barcelona
 
 ## Contents of the repository
 

@@ -11,9 +11,9 @@ If you use this repository, please cite the original article above.
 
 ## Authors
 
-- Àlex Gaona Soler
+- Àlex Gaona Soler (Alex.Gaona@uab.cat)
 - Albert Guisasola Canudas
-- Juan Antonio Baeza Labat
+- Juan Antonio Baeza Labat (JuanAntonio.Baeza@uab.cat)
 
 ## Contents of the repository
 

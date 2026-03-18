@@ -1,0 +1,26 @@
+Suggested repository structure
+
+repository/
+├── README.md
+├── LICENSE
+├── CITATION.cff
+├── .gitignore
+├── src/
+│   ├── main_TOPSIS_cars.m
+│   ├── fun_TOPSIS.m
+│   ├── WSA_TOPSIS.m
+│   ├── FRWSA_TOPSIS.m
+│   ├── main_TOPSIS_WWTPs.m
+│   ├── main_VIKOR_WWTPs.m
+│   ├── fun_VIKOR.m
+│   ├── WSA_VIKOR.m
+│   ├── FRWSA_VIKOR.m
+│   ├── main_MC_WWTPs.m
+│   ├── MC.m
+│   ├── main_dirichlet_MC_WWTPs.m
+│   └── dirichlet_MC.m
+├── docs/
+│   ├── methodology_slides.pptx
+│   └── methodology_slides.pdf
+└── example/
+    └── additional_example_files_if_needed

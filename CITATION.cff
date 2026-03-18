@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the original publication."
+title: "MATLAB code for FRWSA, WSA, TOPSIS and VIKOR analyses"
+type: software
+doi: 10.1016/j.dajour.2025.100642
+license: MIT
+authors:
+  - family-names: Gaona
+    given-names: Àlex
+  - family-names: Guisasola
+    given-names: Albert
+  - family-names: Baeza
+    given-names: Juan Antonio
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Gaona
+      given-names: Àlex
+    - family-names: Guisasola
+      given-names: Albert
+    - family-names: Baeza
+      given-names: Juan Antonio
+  title: "An integrated TOPSIS framework with Full-Range Weight Sensitivity Analysis for robust decision analysis"
+  journal: "Decision Analytics Journal"
+  volume: 17
+  year: 2025
+  month: 12
+  article-number: 100642
+  doi: 10.1016/j.dajour.2025.100642

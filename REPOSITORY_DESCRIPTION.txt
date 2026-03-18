@@ -1,0 +1,1 @@
+MATLAB code accompanying Gaona, Guisasola and Baeza (Decision Analytics Journal, 2025) for FRWSA, WSA, TOPSIS and VIKOR analyses, including a general car-selection example, the WWTP case study from the paper, and Monte Carlo comparisons.
